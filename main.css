@@ -85,3 +85,55 @@ footer{
 ul{
     margin-left: 40px
 }
+table{
+    margin: 20px 0;
+    border-collapse: collapse;
+    text-align: center;
+    border: 2px solid aliceblue;
+    padding: 50px;
+    font-size: 20px;
+
+}
+li{
+    margin: 10px 0;
+}
+thead{
+    border: 2px solid aliceblue;
+    padding: 50px;
+    font-size: 20px;
+
+}
+thead th{
+    border: 2px solid aliceblue;
+    padding: 20px;
+    font-size: 30px;
+}
+
+tbody td{
+    border: 2px solid aliceblue;
+    padding: 20px;
+    font-size: 20px;
+}
+button{
+    padding: 2px;
+    color: aliceblue;
+    background-color: red;
+    font-size: 20px;
+    cursor: pointer;
+}
+#add{
+    margin-top: 10px;
+    color:aliceblue;
+    background-color: green;
+}
+input{
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+input[type="text"]{
+    color: rgba(0, 0, 0, 0.715);  
+}
+input[type="date"]{
+    color: rgba(0, 0, 0, 0.482);  
+}
