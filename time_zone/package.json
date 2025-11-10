@@ -1,0 +1,18 @@
+{
+  "name": "time_zone",
+  "version": "1.0.0",
+  "description": "Show Time depend upon timezone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "server": "live-server --port=8080"
+  },
+  "author": "Paras Mehra",
+  "license": "MIT",
+  "dependencies": {
+    "dayjs": "^1.11.19",
+    "express": "^5.1.0",
+    "micromodal": "^0.6.1"
+  }
+}
